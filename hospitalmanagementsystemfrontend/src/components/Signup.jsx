@@ -110,7 +110,7 @@ function continuewithgoogle(){
   console.log(token,"Adaslkdas;ljdlasj")
   // console.log(!undefined===true)
   
-  !token?window.open("http://localhost:8000/oauth/auth/google"):alert("already signed in")
+  !token?window.open("https://hospitalmanagementsystembackend-gnz7.onrender.com/oauth/auth/google"):alert("already signed in")
 
       
   
