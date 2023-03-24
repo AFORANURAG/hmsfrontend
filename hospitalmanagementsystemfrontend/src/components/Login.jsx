@@ -90,7 +90,7 @@ function handleclose(){
 }
 
 function changelocation(){
-  window.location.href="http://localhost:5173";
+  window.location.href="https://hospitalmanagmentsystem.vercel.app/";
 }
 
 // login krne kai baad token set krunga
