@@ -73,7 +73,6 @@ function login(){
   }else{
     handleShow()
   }
- 
 }
 
 
@@ -81,16 +80,14 @@ function handleOnChange(e){
  const {name,value}=e.target
  setUser({...user,[name]:value})
 }
-
 function handleclose(){
   console.log("handle close is clicked")
   onClose();
   changelocation();
   // navigate('/');
 }
-
 function changelocation(){
-  window.location.href="https://hmsfrontend-b1nup0m0y-aforanurag.vercel.app/";
+  window.location.href="https://hmsfrontend-eight.vercel.app/";
 }
 
 // login krne kai baad token set krunga
