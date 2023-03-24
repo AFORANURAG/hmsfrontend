@@ -90,7 +90,7 @@ function handleclose(){
 }
 
 function changelocation(){
-  window.location.href="https://hospitalmanagmentsystem-hhg3qqyjt-aforanurag.vercel.app/";
+  window.location.href="https://hmsfrontend-b1nup0m0y-aforanurag.vercel.app/";
 }
 
 // login krne kai baad token set krunga
